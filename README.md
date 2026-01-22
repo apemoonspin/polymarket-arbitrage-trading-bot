@@ -46,7 +46,7 @@ I implemented these **7 Polymarket arbitrage trading strategies**  for premium v
 Overview: Build a large low-cost position by soaking bot liquidity, then briefly force the reference market price at resolution to flip the outcome and cash the higher Polymarket payout.
 
 
-2. **Strategy 2**: Orderbook Parity Arbitrage (Pre-Fee Era)  - Current repo's plan
+2. **Strategy 2**: Orderbook Parity Arbitrage (Pre-Fee Era)  - <span style="background-color: #4CAF50; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">Current repo's plan</span>  
 Overview: Exploited brief moments where YES + NO priced below $1 on short windows, buying both sides simultaneously and holding to settlement to harvest tiny, repeatable mispricings—an edge erased by the 3.15% fee.  
 Contrast — Post-Fee Adaptation: Liquidation Momentum Filter  
 Overview: After fees killed parity arbitrage, the surviving bot shifted to entering only during forced-liquidation spikes, trading explosive moves where payout asymmetry outweighed fees, proving the edge wasn’t speed but adaptive logic.
