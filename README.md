@@ -3,7 +3,7 @@
 **Professional Polymarket Bot for Automated Arbitrage Trading for suitable income**
 
 > **Need help running this project or want an updated version?**  
-> 📱 **Telegram**: [@apemoonspin](https://t.me/apemoonspin)  
+> 📱 **Telegram**: [t.me/apemoonspin](https://t.me/apemoonspin)  
 ---
 
 ## 📝 Description
