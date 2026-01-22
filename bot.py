@@ -1,6 +1,11 @@
 """
 Polymarket Arbitrage Bot Main Code
 Detects and executes arbitrage opportunities when Yes/No ticket price sum is less than 1.0
+
+Author: apemoonspin
+Telegram: @apemoonspin
+GitHub: apemoonspin
+Twitter: @apemoonspin
 """
 import time
 import requests

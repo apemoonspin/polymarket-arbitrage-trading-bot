@@ -1,5 +1,10 @@
 """
 Polymarket Arbitrage Bot Configuration File
+
+Author: apemoonspin
+Telegram: @apemoonspin
+GitHub: apemoonspin
+Twitter: @apemoonspin
 """
 import os
 from dotenv import load_dotenv
